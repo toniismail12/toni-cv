@@ -9,7 +9,7 @@ export default function Home() {
                 alt="CV"
                 width={1000}
                 height={1000}
-                className="h-screeen w-screen px-40"
+                className="h-screeen w-screen lg:px-40"
             />
 
         </div>
